@@ -7,7 +7,8 @@
     <style media="screen">
         * { font-family: sans-serif;}
         textarea { width: 100%; resize: none}
-        span {background: #ddd}
+        span {background: #ddd; padding: .5em}
+        #result {background: #ddd; padding: 5em}
     </style>
 </head>
 <body>
@@ -24,6 +25,9 @@
 
     <h2> Expression Xpath </h2>
     <textarea id="input_xpath" rows = "1"></textarea>
+
+    <h2> Résultat </h2>
+    <p id="result"></p>
 
 
     <script src="xpath.js"></script>

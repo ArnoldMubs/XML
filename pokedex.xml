@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex>
+
+  <pokemon numero="001">
+    <name>Bulbizarre</name>
+    <img src="bulbizarre.png" />
+    <description>
+      Bulbizarre passe son temps à faire la sieste sous le soleil. Il y a une
+      graine sur son dos. Il absorbe les rayons du soleil pour faire doucement
+      pousser la graine.
+    </description>
+    <types>
+      <type>Plante</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.7</size>
+      <size unit="foot">2.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="002">
+    <name>Herbizarre</name>
+    <img src="herbizarre.png" />
+    <description>
+      Un bourgeon a poussé sur le dos de ce Pokémon. Pour en supporter le poids,
+      Herbizarre a dû se muscler les pattes. Lorsqu'il commence à se prélasser
+      au soleil, ça signifie que son bourgeon va éclore, donnant naissance à une
+      fleur.
+    </description>
+    <types>
+      <type>Plante</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.0</size>
+      <size unit="foot">3.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="003">
+    <name>Florizarre</name>
+    <img src="florizarre.png" />
+    <description>
+      Une belle fleur se trouve sur le dos de Florizarre. Elle prend une couleur
+      vive lorsqu'elle est bien nourrie et bien ensoleillée. Le parfum de cette
+      fleur peut apaiser les gens.
+    </description>
+    <types>
+      <type>Plante</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">2.0</size>
+      <size unit="foot">6.5</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="004">
+    <name>Salameche</name>
+    <img src="salameche.png" />
+    <description>
+      La flamme qui brûle au bout de sa queue indique l'humeur de ce Pokémon.
+      Elle vacille lorsque Salamèche est content. En revanche, lorsqu'il
+      s'énerve, la flamme prend de l'importance et brûle plus ardemment.
+    </description>
+    <types>
+      <type>Feu</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.6</size>
+      <size unit="foot">1.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="005">
+    <name>Reptincel</name>
+    <img src="reptincel.png" />
+    <description>
+      Reptincel lacère ses ennemis sans pitié grâce à ses griffes acérées. S'il
+      rencontre un ennemi puissant, il devient agressif et la flamme au bout de
+      sa queue s'embrase et prend une couleur bleu clair.
+    </description>
+    <types>
+      <type>Feu</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.1</size>
+      <size unit="foot">3.6</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="006">
+    <name>Dracaufeu</name>
+    <img src="dracaufeu.png" />
+    <description>
+      Dracaufeu parcourt les cieux pour trouver des adversaires à sa mesure. Il
+      crache de puissantes flammes capables de faire fondre n'importe quoi. Mais
+      il ne dirige jamais son souffle destructeur vers un ennemi plus faible.
+    </description>
+    <types>
+      <type>Feu</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.7</size>
+      <size unit="foot">5.5</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="007">
+    <name>Carapuce</name>
+    <img src="carapuce.png" />
+    <description>
+      La carapace de Carapuce ne sert pas qu'à le protéger. La forme ronde de sa
+      carapace et ses rainures lui permettent d'améliorer son hydrodynamisme. Ce
+      Pokémon nage extrêmement vite.
+    </description>
+    <types>
+      <type>Eau</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.5</size>
+      <size unit="foot">1.6</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="008">
+    <name>Carabaffe</name>
+    <img src="carabaffe.png" />
+    <description>
+      Carabaffe a une large queue recouverte d'une épaisse fourrure. Elle
+      devient de plus en plus foncée avec l'âge. Les éraflures sur la carapace
+      de ce Pokémon témoignent de son expérience au combat.
+    </description>
+    <types>
+      <type>Eau</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.0</size>
+      <size unit="foot">3.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="009">
+    <name>Tortank</name>
+    <img src="tortank.png" />
+    <description>
+      Tortank dispose de canons à eau émergeant de sa carapace. Ils sont très
+      précis et peuvent envoyer des balles d'eau capables de faire mouche sur
+      une cible située à plus de 50 m.
+    </description>
+    <types>
+      <type>Eau</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.6</size>
+      <size unit="foot">5.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="010">
+    <name>Chenipan</name>
+    <img src="chenipan.png" />
+    <description>
+      Chenipan a un appétit d'ogre. Il peut engloutir des feuilles plus grosses
+      que lui. Les antennes de ce Pokémon dégagent une odeur particulièrement
+      entêtante.
+    </description>
+    <types>
+      <type>Insecte</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.3</size>
+      <size unit="foot">0.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="011">
+    <name>Chrysacier</name>
+    <img src="chrysacier.png" />
+    <description>
+      La carapace protégeant ce Pokémon est dure comme du métal. Chrysacier ne
+      bouge pas beaucoup. Il reste immobile pour préparer les organes à
+      l'intérieur de sa carapace en vue d'une évolution future.
+    </description>
+    <types>
+      <type>Insecte</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.7</size>
+      <size unit="foot">2.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="012">
+    <name>Papilusion</name>
+    <img src="papilusion.png" />
+    <description>
+      Papilusion est très doué pour repérer le délicieux nectar qu'il butine
+      dans les fleurs. Il peut détecter, extraire et transporter le nectar de
+      fleurs situées à plus de 10 km de son nid.
+    </description>
+    <types>
+      <type>Insecte</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.1</size>
+      <size unit="foot">3.6</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="013">
+    <name>Aspicot</name>
+    <img src="aspicot.png" />
+    <description>
+      L'odorat d'Aspicot est extrêmement développé. Il lui suffit de renifler
+      ses feuilles préférées avec son gros appendice nasal pour les reconnaître
+      entre mille.
+    </description>
+    <types>
+      <type>Insecte</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.3</size>
+      <size unit="foot">0.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="014">
+    <name>Coconfort</name>
+    <img src="coconfort.png" />
+    <description>
+      Coconfort est la plupart du temps immobile et reste accroché à un arbre.
+      Cependant, intérieurement, il est très actif, car il se prépare pour sa
+      prochaine évolution. En touchant sa carapace, on peut sentir sa chaleur.
+    </description>
+    <types>
+      <type>Insecte</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.6</size>
+      <size unit="foot">1.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="015">
+    <name>Dardagnan</name>
+    <img src="dardagnan.png" />
+    <description>
+      Dardargnan est extrêmement possessif. Il vaut mieux ne pas toucher son nid
+      si on veut éviter d'avoir des ennuis. Lorsqu'ils sont en colère, ces
+      Pokémon attaquent en masse.
+    </description>
+    <types>
+      <type>Insecte</type>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.0</size>
+      <size unit="foot">3.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="016">
+    <name>Roucool</name>
+    <img src="roucool.png" />
+    <description>
+      Roucool a un excellent sens de l'orientation. Il est capable de retrouver
+      son nid sans jamais se tromper, même s'il est très loin de chez lui et
+      dans un environnement qu'il ne connaît pas.
+    </description>
+    <types>
+      <type>Normal</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.3</size>
+      <size unit="foot">0.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="017">
+    <name>Roucoups</name>
+    <img src="roucoups.png" />
+    <description>
+      Roucoups utilise une vaste surface pour son territoire. Ce Pokémon
+      surveille régulièrement son espace aérien. Si quelqu'un pénètre sur son
+      territoire, il corrige l'ennemi sans pitié d'un coup de ses terribles
+      serres.
+    </description>
+    <types>
+      <type>Normal</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.1</size>
+      <size unit="foot">3.6</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="018">
+    <name>Roucarnage</name>
+    <img src="roucarnage.png" />
+    <description>
+      Ce Pokémon est doté d'un plumage magnifique et luisant. Bien des Dresseurs
+      sont captivés par la beauté fatale de sa huppe et décident de choisir
+      Roucarnage comme leur Pokémon favori.
+    </description>
+    <types>
+      <type>Normal</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.5</size>
+      <size unit="foot">4.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="019">
+    <name>Rattata</name>
+    <img src="rattata.png" />
+    <description>
+      Rattata est extrêmement prudent. Même lorsqu'il est endormi, il fait
+      pivoter ses oreilles pour écouter autour de lui. En ce qui concerne son
+      habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe
+      où.
+    </description>
+    <types>
+      <type>Normal</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.3</size>
+      <size unit="foot">0.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="020">
+    <name>Rattatac</name>
+    <img src="rattatac.png" />
+    <description>
+      Les crocs robustes de Rattatac poussent constamment. Pour éviter qu'ils
+      raclent le sol, il se fait les dents sur des cailloux ou des troncs
+      d'arbre. Il lui arrive même de ronger les murs des maisons.
+    </description>
+    <types>
+      <type>Normal</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.7</size>
+      <size unit="foot">2.2</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="021">
+    <name>Piafabec</name>
+    <img src="piafabec.png" />
+    <description>
+      Piafabec crie tellement fort qu'il peut être entendu à 1 km de distance.
+      Ces Pokémon se préviennent d'un danger en entonnant une mélopée très
+      aiguë, qu'ils se renvoient les uns les autres, comme un écho.
+    </description>
+    <types>
+      <type>Normal</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.3</size>
+      <size unit="foot">0.9</size>
+    </sizes>
+  </pokemon>
+
+      <pokemon numero="022">
+    <name>Rapasdepic</name>
+    <img src="rapasdepic.png" />
+    <description>
+      On reconnaît un Rapasdepic à son long cou et à son bec allongé. Ces
+      attributs lui permettent d'attraper facilement ses proies dans la terre ou
+      dans l'eau. Il bouge son bec long et fin avec une grande agilité.
+    </description>
+    <types>
+      <type>Normal</type>
+      <type>Vol</type>
+    </types>
+    <sizes>
+      <size unit="meter">1.2</size>
+      <size unit="foot">3.9</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="023">
+    <name>Abo</name>
+    <img src="abo.png" />
+    <description>
+      Abo s'enroule en spirale pour dormir. Sa tête reste relevée de telle sorte
+      que cette position lui permette de réagir rapidement si une menace
+      survenait.
+    </description>
+    <types>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">2.0</size>
+      <size unit="foot">6.5</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="024">
+    <name>Arbok</name>
+    <img src="arbok.png" />
+    <description>
+      Ce Pokémon doté d'une force extraordinaire peut étrangler ses proies avec
+      son corps. Il peut même écraser des tonneaux métalliques. Une fois sous
+      l'étreinte d'Arbok, il est impossible de lui échapper.
+    </description>
+    <types>
+      <type>Poison</type>
+    </types>
+    <sizes>
+      <size unit="meter">3.5</size>
+      <size unit="foot">11.4</size>
+    </sizes>
+  </pokemon>
+
+  <pokemon numero="025">
+    <name>Pikachu</name>
+    <img src="pikachu.png" />
+    <description>
+      Chaque fois que Pikachu découvre quelque chose de nouveau, il envoie un
+      arc électrique. Lorsqu'on tombe sur une Baie carbonisée, ça signifie sans
+      doute qu'un de ces Pokémon a envoyé une charge trop forte.
+    </description>
+    <types>
+      <type>Electrik</type>
+    </types>
+    <sizes>
+      <size unit="meter">0.4</size>
+      <size unit="foot">1.3</size>
+    </sizes>
+  </pokemon>
+
+</pokedex>

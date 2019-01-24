@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notes>
+
+  <note date="2018-12-25" color="green">
+    <title>Joyeux Noël !</title>
+    <message>Oh oh oh... !</message>
+    <from>Bob</from>
+    <to>Alice</to>
+  </note>
+
+  <note date="2018-12-31" color="yellow">
+    <title>Bonne année</title>
+    <message>Fiestaaa !</message>
+    <from>Alice</from>
+    <to>Bob</to>
+    <read/>
+  </note>
+
+  <note date="2019-01-22" color="cyan">
+    <title>N'oublie pas !</title>
+    <message>Pense à sortir le chat...</message>
+    <from>Bob</from>
+    <to>Alice</to>
+  </note>
+
+  <note date="2019-01-22" color="pink">
+    <title>Pas le temps</title>
+    <message>Fais le toi-même !</message>
+    <from>Alice</from>
+    <to>Bob</to>
+  </note>
+
+  <note date="2019-01-22" color="cyan">
+    <title>H'jxy q'mnxytnwj...</title>
+    <message>
+      ... i'zs firnsnxywfyjzw vzn htsknlzwj xjx afwnfgqjx i'jsanwtssjrjsy, jy
+      qf ... UFYM qj hmjrns !
+    </message>
+    <from>Cesar</from>
+    <to>Joe</to>
+  </note>
+
+  <note date="2019-01-22" color="yellow">
+    <title>Hein ?</title>
+    <message>Pas compris...</message>
+    <from>Joe</from>
+    <to>Cesar</to>
+  </note>
+
+  <note date="2019-01-23" color="yellow">
+    <title>Bizarre...</title>
+    <message>T'as compris le message de Cesar ?</message>
+    <from>Joe</from>
+    <to>Bob</to>
+  </note>
+
+  <note date="2019-01-24" color="pink">
+    <title>Au fait !</title>
+    <message>Pense à faire rentrer le chat...</message>
+    <from>Bob</from>
+    <to>Alice</to>
+  </note>
+
+  <note date="2019-01-25" color="cyan">
+    <title>Très drôle</title>
+    <message>Ahahah !</message>
+    <from>Bob</from>
+    <to>Cesar</to>
+  </note>
+
+  <note date="2019-01-26" color="green">
+    <title>Hnyfynts</title>
+    <message>Zs hqfanjw FEJWYD js afzy ijzc.</message>
+    <from>Cesar</from>
+    <to>Bob</to>
+  </note>
+
+</notes>

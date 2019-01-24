@@ -33,10 +33,10 @@ input_xpath.onkeyup = function(){
         result = nodes.iterateNext();
         while (result) {
             str = new XMLSerializer().serializeToString(result);
-            concat += str;
+            concat += "<td>"+str+"</td>";
             result = nodes.iterateNext();
         }
-        out_xpath.innerText = concat;
+        out_xpath.innerHTML = concat;
     }catch (e) {
         out_xpath.innerText = 'Erreur : L\'arbre du document a été modifié pendant l\'itération ' + e ;
     }
